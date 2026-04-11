@@ -4,8 +4,6 @@
 
 -----
 
-### **README.md**
-
 ````markdown
 # Music Streaming Service 3 🎵
 
